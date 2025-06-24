@@ -25,7 +25,7 @@
   - Works on newer devices
 - **Cons**:
   - Still sandboxed in some ways compared to full jailbreak
-- **URL**: https://opa334.dev/dopamine/
+- **URL**: [https://ellekit.space/dopamine/]
 
 ------
 
